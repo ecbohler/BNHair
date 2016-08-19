@@ -1,0 +1,29 @@
+.box {
+  background-image: url("smoke_gray.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+  display: block;
+  box-sizing: border-box;
+  height: 900px;
+}
+
+.outer {
+  width: 5px; /* Or zero, or something very small */
+  margin: auto;
+  overflow: visible;
+  /*background: red;  A color just for debug */
+}
+.inner {
+  margin-left: 0px;
+  /*background: yellow;  A color just for debug */
+  width: 210px; /* Depending on the desired effect, width might be needed */
+}
+
+.white_text {
+  color: white;
+}
+
+.element_space {
+  padding-right: 100px;
+}
