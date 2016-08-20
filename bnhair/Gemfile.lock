@@ -110,6 +110,7 @@ GEM
     normalize-rails (3.0.3)
     orm_adapter (0.5.0)
     pg (0.18.4)
+    puma (3.6.0)
     rack (1.6.4)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -213,6 +214,7 @@ DEPENDENCIES
   jquery-rails
   normalize-rails
   pg
+  puma
   rails (= 4.2.3)
   react-rails (~> 1.6.0)
   sass-rails (~> 5.0)
