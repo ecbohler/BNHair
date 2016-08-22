@@ -82,4 +82,7 @@ production:
   <<: *default
   database: bnhair_production
   username: bnhair
-  password:
+  password: bnhair
+  host: localhost
+  port: 5432
+
