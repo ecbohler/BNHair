@@ -82,4 +82,4 @@ production:
   <<: *default
   database: bnhair_production
   username: bnhair
-  password: <%= ENV['BNHAIR_DATABASE_PASSWORD'] %>
+  password:
