@@ -213,7 +213,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   normalize-rails
-  pg (~> 0.18.4)
+  pg
   puma
   rails (= 4.2.3)
   react-rails (~> 1.6.0)
